@@ -1,0 +1,80 @@
+2020-08-17T05:59:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-cron.php(44): require_onc в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T05:59:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(13): requ в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T06:18:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-cron.php(44): require_onc в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T06:18:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(13): requ в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T07:21:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-cron.php(44): require_onc в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T12:41:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-cron.php(44): require_onc в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T12:41:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(13): requ в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+
+2020-08-17T12:41:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function create_posttype(), 1 passed in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php on line 287 and exactly 2 expected in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): create_posttype('')
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-settings.php(540): do_action('init')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-config.php(26): require_once('/home/c/cl78656...')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-load.php(37): require_once('/home/c/cl78656...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(13): requ в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/functions.php на строке 5
+

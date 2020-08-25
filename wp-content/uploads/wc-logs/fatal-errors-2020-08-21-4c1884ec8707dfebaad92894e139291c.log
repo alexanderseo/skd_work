@@ -1,0 +1,1158 @@
+2020-08-21T12:27:55+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:13
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php(8): testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#4 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 13
+
+2020-08-21T12:29:49+00:00 CRITICAL Uncaught Error: Unsupported operand types in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:12
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php(8): testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#4 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 12
+
+2020-08-21T12:43:38+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 5
+
+2020-08-21T12:43:38+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 5
+
+2020-08-21T12:46:45+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:5
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 5
+
+2020-08-21T12:47:54+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:47:54+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:48:46+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:50:47+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:52:48+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:30+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:30+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:30+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:30+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:54:49+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:25+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:25+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:26+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:26+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:55:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:56:26+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:56:26+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:56:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:56:27+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:56:50+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:57:28+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:57:29+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:57:30+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:57:30+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:58:46+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:58:46+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:58:47+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:58:47+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T12:58:51+00:00 CRITICAL Uncaught Error: Class 'testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/theme в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:00:21+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:00:21+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:00:52+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:02:50+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:02:50+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:02:53+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:04:54+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:06:55+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:07:13+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:07:13+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:08:56+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:10:57+00:00 CRITICAL Uncaught Error: Class 'framework\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:11:21+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTestAlias' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T13:11:21+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTestAlias' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T13:12:58+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTestAlias' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T13:14:59+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTestAlias' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T13:17:00+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTestAlias' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T13:18:45+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:18:46+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:19:01+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:21:02+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:23:03+00:00 CRITICAL Uncaught Error: Class 'module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-conten в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:23:42+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:23:42+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:24:38+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:24:38+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:24:39+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:24:39+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:25:03+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:27:03+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:28:55+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:28:55+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:28:56+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:28:56+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:29:04+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:29:23+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:11
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-co в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 11
+
+2020-08-21T13:29:23+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:11
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-co в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 11
+
+2020-08-21T13:31:05+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:33:06+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:35:07+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:35:25+00:00 CRITICAL Uncaught Error: Class 'sk\module\AbstractClassTest\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:35:25+00:00 CRITICAL Uncaught Error: Class 'sk\module\AbstractClassTest\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:35+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:35+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesi в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:55+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:55+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:56+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:36:56+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:37:08+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:39:09+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:41:10+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:43:11+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:45:12+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:47:13+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:49:14+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:51:15+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:53:16+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:55:17+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:57:18+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T13:59:19+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 8
+
+2020-08-21T14:00:11+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:00:11+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:01:20+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:02:16+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:02:16+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:03:21+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:05:22+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:07:23+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:08:05+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:08:05+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:08:06+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:08:06+00:00 CRITICAL Uncaught Error: Class 'AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:6
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/fu в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 6
+
+2020-08-21T14:08:46+00:00 CRITICAL Uncaught Error: Call to undefined function testRequires() in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#3 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php на строке 8
+
+2020-08-21T14:08:58+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T14:08:58+00:00 CRITICAL Uncaught Error: Class 'sk\module\testtaxonomy\AbstractClassTest' not found in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:7
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-con в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 7
+
+2020-08-21T14:09:14+00:00 CRITICAL Uncaught Error: Call to undefined function testRequires() in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#3 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php на строке 8
+
+2020-08-21T14:09:48+00:00 CRITICAL Uncaught Error: Call to undefined function testRequires() in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#3 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php на строке 8
+
+2020-08-21T14:11:41+00:00 CRITICAL Uncaught Error: Call to undefined function testRequires() in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#3 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php на строке 8
+
+2020-08-21T15:57:03+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:17
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires(10)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 17
+
+2020-08-21T15:57:03+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:17
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires(10)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 17
+

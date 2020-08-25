@@ -1,0 +1,595 @@
+2020-08-24T12:22:38+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(18): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(24): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:22:39+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(18): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(24): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:26:40+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(26): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:26:40+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(26): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:26:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(26): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:26:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(26): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:27:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:27:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:27:41+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:27:42+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:13+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:13+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:14+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:15+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:29:15+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:20
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(14): sk\module\testtaxonomy\AbstractClassTest::testRequires()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(20): ChildAbstract::testRequires()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/cla в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 20
+
+2020-08-24T12:33:45+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:33:45+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:17+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:17+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:18+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:18+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:19+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:36:19+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:37:34+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:37:34+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(19): sk\module\testtaxonomy\AbstractClassTest::returnTest(2)
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(25): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class- в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 28
+
+2020-08-24T12:44:32+00:00 CRITICAL Uncaught Error: Non-static method ChildAbstract::__construct() cannot be called statically in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/p в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 28
+
+2020-08-24T12:44:32+00:00 CRITICAL Uncaught Error: Non-static method ChildAbstract::__construct() cannot be called statically in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:28
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/startup.php(13): do_action('sk_after_loadin...')
+#6 /home/c/cl78656/sk.cl78656.tmweb.ru/p в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 28
+
+2020-08-24T12:46:41+00:00 CRITICAL Uncaught Error: Call to a member function returnTest() on null in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php:8
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/template-loader.php(106): include()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-blog-header.php(19): require_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/index.php(17): require('/home/c/cl78656...')
+#3 {main}
+  thrown в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/index.php на строке 8
+
+2020-08-24T12:51:21+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:51:21+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:53:53+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:53:53+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:54:30+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:54:30+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:54:30+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:54:31+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:29
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 29
+
+2020-08-24T12:54:54+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T12:54:54+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T12:55:37+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T12:55:37+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:30:55+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:32:56+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:34:57+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:36:58+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:38:59+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:40:23+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:40:39+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:42:40+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:29+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:30+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:31+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:31+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:32+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:32+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:37+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:43:37+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:00+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:00+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:01+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:01+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:04+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:04+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php:32
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(23): sk\module\testtaxonomy\AbstractClassTest::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-w в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/AbstractClassTest.php на строке 32
+
+2020-08-24T14:44:41+00:00 CRITICAL Uncaught Error: Call to undefined method sk\module\testtaxonomy\AbstractClassTest::returnTest() in /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php:23
+Stack trace:
+#0 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php(29): ChildAbstract::returnTest()
+#1 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/load.php(2): include_once('/home/c/cl78656...')
+#2 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/load.php(5): include_once('/home/c/cl78656...')
+#3 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(287): sk_load_modules('')
+#4 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#5 /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-includes/plugin.php(478): WP_Hook->do_action в /home/c/cl78656/sk.cl78656.tmweb.ru/public_html/wp-content/themes/skdesign/framework/module/testtaxonomy/test-functions.php на строке 23
+
