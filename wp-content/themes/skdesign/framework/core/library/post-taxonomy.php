@@ -55,6 +55,7 @@ class register {
             'sk\core\post_taxonomy\fabric\register',
             'sk\core\post_taxonomy\collection\register',
             'sk\core\post_taxonomy\material\register'
+//            'sk\core\post_taxonomy\tkan\register'
         );
 
         foreach ($array as $key => $value) {

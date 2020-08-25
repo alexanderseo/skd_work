@@ -1,2 +1,2 @@
 <?php
-include_once dirname(__FILE__) . '/register.php';
+//include_once dirname(__FILE__) . '/AbstractClassTest.php';

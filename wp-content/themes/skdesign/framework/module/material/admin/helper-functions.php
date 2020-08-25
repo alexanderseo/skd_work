@@ -10,6 +10,6 @@ add_action('sk_after_loading_framework', function () {
 
     $meta->add('taxonomy', 'fabric', 'collection', array(
         'taxonomy' => 'collection',
-        'label' => 'материал'
+        'label' => 'связь с '
     ));
 }, 20);
